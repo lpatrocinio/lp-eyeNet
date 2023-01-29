@@ -1,3 +1,6 @@
 ./.lp_eyenet_venv/*
 ./datasets/*
 ./ipynb_checkpoints/*
+.lp_eyenet_venv/*
+.ipynb_checkpoints/*
+datasets/*
