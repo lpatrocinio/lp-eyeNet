@@ -2,4 +2,6 @@ __pycache__
 .ipynb_checkpoints
 .lp_eyenet_venv
 datasets/*
-outputs/*
+output/*
+logs/*
+saidas_layers
